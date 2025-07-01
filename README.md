@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/logo.jpg" alt="KIR EROBO Logo" width="200"/>
+  <img src="/public/favicon.jpg.jpg" alt="KIR EROBO Logo" width="200"/>
 </p>
 
 <h1 align="center">🔬 KIR EROBO</h1>
