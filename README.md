@@ -1,24 +1,12 @@
 <p align="center">
-  <img src="/public/favicon.jpg" alt="KIR EROBO Logo" width="200"/>
+  <img src="/public/favicon.png" alt="KIR EROBO Logo" width="200"/>
 </p>
 
 <h1 align="center">🔬 KIR EROBO</h1>
 <h3 align="center">Engineering Researcher of Budi Utomo</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="250" alt="Science Animation"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/kir-erobo">
-    <img src="https://img.shields.io/badge/Research-Innovate-9cf?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://github.com/kir-erobo">
-    <img src="https://img.shields.io/badge/Impact-Society-brightgreen?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
 
 ## 💡 About Us
 
